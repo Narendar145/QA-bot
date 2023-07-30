@@ -1,0 +1,9 @@
+The Environment named 'SQL' which comes under system 'Sk_System' of datasource type 'SqlServer' and its version is '1.00'.
+The above Environment contains some of its details like description as 'sk_sytem environemnt' , Data Steward as 'None' ,
+Business Entity Type as 'Sql Server', Sensitive Data Indicator Classification as 'CLASSIFY,CMS_SDI1,CMS_SDI2,CONFIDENTIAL3' ,
+SDI Description as 'sk_stem description', tags as 'Systems,SS Tag3,SS Tag4' along with Environment Notes as 'sk_system environment notes' .
+Audit History of this Environment includes its creation which was created by 'Administrator' on created date time '30/07/2023'
+and last refreshed by 'Administrator' on last refreshed date '01/08/2023' and it was last modified by'Administrator'
+on last modified date time is '31/07/2023 13:15'
+
+

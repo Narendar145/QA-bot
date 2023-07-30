@@ -1,0 +1,19 @@
+﻿ID,NAME,DESCRIPTION,STATUS
+1,newtag1,,1
+2,newtag2,,1
+3,TermTag,TermTag Desc,1
+4,AllTag,AllTag Desc,1
+5,final,,1
+6,Policy tag,,1
+7,Rule tag,,1
+8,Custom tag,,1
+9,May9_Tag1 updated,May9_Tag1 desc updated,1
+10,Unpublished tag,UT,0
+11,Del_Tag2,Del_Tag2 desc,1
+13,createProject1,new project desc1,1
+14,createMapping1,new mapping desc1,1
+15,createSubject1,new subject desc1,1
+16,createAll,all mappings desc1,1
+17,createAllAssets,new desc1,1
+18,SS Tag1,,1
+19,SS Tag2,,1

@@ -1,0 +1,91 @@
+﻿BUS_TERM_ID,CATEGORY_ID,BUS_TERM_NAME,DEFINITION,DESCRIPTION,ACRONYM,VALID,PUBLISH,NOTES,TERM_IMAGE,STATUS,DATA_CLASSIFICATION_TYPE,DATA_OBJECT_TYPE,DATA_COLLECTION_TYPE,MEANING_CATEGORY_TYPE,DATA_STEWARD_NAME,USER_DEFINED_1,USER_DEFINED_2,USER_DEFINED_3,USER_DEFINED_4,USER_DEFINED_5,USER_DEFINED_6,USER_DEFINED_7,USER_DEFINED_8,USER_DEFINED_9,USER_DEFINED_10,SOURCE_ID,SOURCE_REFERENCE,AI_METADATA_MATCH_STATUS,SDI_FLAG,SDI_DESCRIPTION,SDI_CLASS_ID
+1,1,BT1,term details data up,data definition,Y,1,N,new business term,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+2,1,BT2,BT2 definition,"<span style=""letter-spacing: 0.13118px;"">BT2 definition description</span>",Y,1,N,,NULL,-1,1461,1467,1463,1465,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+3,2,BT3,definition of BT3,"<span style=""letter-spacing: 0.13118px;"">definition of BT3</span>",Y,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+4,1,Term01,Term01 definition,Term01 description,Y,1,N,Term01 notes,NULL,-1,5,6,14,15,-1,,,,,,,,,,,,,0,Y,NULL,NULL
+5,1,Term02,Term02 definition,Term02 description,Y,1,N,Term02 notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+6,1,Term03,Term02 definition,Term03 description,Y,1,N,new business term,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,Y,NULL,NULL
+7,1,Term04,Term04 definition,Term04 description,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+8,9,One,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+9,12,Administrator,sanitizer,handwash,Y,1,N,facemask,NULL,-1,1,6,11,15,-1,1&nbsp;Administrator,2&nbsp;Administrator,3&nbsp;Administrator,4&nbsp;Administrator,5&nbsp;Administrator,6&nbsp;Administrator,7&nbsp;Administrator,8&nbsp;Administrator,9&nbsp;Administrator,10&nbsp;Administrator,NULL,NULL,0,Y,NULL,NULL
+10,13,Administrator 1,sanitizer 1,handwash 1,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+11,20,Term1,Term1 Definition1,Term1 Description1,Y,1,N,Term1 Notes1,briefcase.png,-1,3,7,13,16,-1,User11,"<span style=""letter-spacing: 0.13118px;"">User21</span>","<span style=""letter-spacing: 0.13118px;"">User3</span>","<span style=""letter-spacing: 0.13118px;"">User4</span>","<span style=""letter-spacing: 0.13118px;"">User5</span>","<span style=""letter-spacing: 0.13118px;"">User61</span>","<span style=""letter-spacing: 0.13118px;"">User71</span>","<span style=""letter-spacing: 0.13118px;"">User8</span>","<span style=""letter-spacing: 0.13118px;"">User9</span>","<span style=""letter-spacing: 0.13118px;"">User10</span>",NULL,NULL,0,Y,NULL,NULL
+12,41,Customer Demo,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+13,44,Demographics,Demographics Def,Demographics Desc,Y,1,Y,Demographics Notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+14,45,Loan,Loan Def,Loan Desc,N,1,N,Loan Notes,NULL,-1,2,7,14,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+15,43,Product,Product Def,Product Desc,Y,1,N,Product Notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+16,42,Suppliers,Suppliers Def,Suppliers Desc,Y,1,N,Suppliers Notes,NULL,-1,3,7,13,15,-1,User1,"<span style=""letter-spacing: 0.13118px;"">User2</span>","<span style=""letter-spacing: 0.13118px;"">User3</span>","<span style=""letter-spacing: 0.13118px;"">User4</span>","<span style=""letter-spacing: 0.13118px;"">User5</span>","<span style=""letter-spacing: 0.13118px;"">User6</span>","<span style=""letter-spacing: 0.13118px;"">User7</span>","<span style=""letter-spacing: 0.13118px;"">User8</span>","<span style=""letter-spacing: 0.13118px;"">User9</span>","<span style=""letter-spacing: 0.13118px;"">User10</span>",NULL,NULL,0,N,NULL,NULL
+29,41,TT,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+30,46,TD1,"<b><i><u>TD1 </u></i></b><span style=""background-color: rgba(207, 207, 37, 0.67);""><font color=""#c21919"">definition</font></span> of business term  <a style=""cursor:pointer"" target=""_blank"" href=""http://www.google.com"">google</a>&nbsp;",TD1 business term definition and description,Y,1,Y,New businesss data,NULL,-1,3,7,10,15,-1,"<span style=""background-color: rgba(55, 130, 52, 0.67);""><font color=""#ad2424"">user </font></span><b><i><u>defined </u></i></b>data 01  <a style='cursor:pointer' target='_blank' href='http://www.google.com'>google</a>","<span style=""letter-spacing: 0.13118px;"">user defined data 02</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 03</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 04</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 05</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 06</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 07</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 08</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 09</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 10</span>",NULL,NULL,0,Y,NULL,NULL
+31,46,TD2,TD2 definition,TD2 description,N,1,N,TD2 notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+32,46,TD3,Definition,description,N,1,N,notes,NULL,-1,2,7,9,17,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+33,46,TD4,definition,description,Y,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,Y,NULL,NULL
+34,47,AMC,AMC-def-multiple term [Metadata],,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+35,47,McLaren,McLaren-def-multiple term [Metadata],,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,Y,NULL,NULL
+36,20,Term12,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+37,58,Category Name,Contact Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+38,57,CategoryID,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,Y,NULL,NULL
+39,59,CategoryID,CategoryID,CategoryID,N,1,N,CategoryID,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,Y,NULL,NULL
+40,58,CategoryName,ContactName,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+41,58,Contact Name,Category Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+42,58,ContactName,CategoryName,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+43,57,Discontinued,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+44,59,Discontinued,Discontinued,Discontinued,N,1,N,Discontinued,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+45,58,First,Last,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+46,58,Last,Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+47,58,Name,First,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+48,57,ProductID,,,N,1,Y,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,Y,NULL,NULL
+49,59,ProductID,ProductID,ProductID,N,1,N,ProductID,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,Y,NULL,NULL
+50,57,ProductName,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+51,59,ProductName,ProductName,ProductName,N,1,N,ProductName,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+52,57,QuantityPerUnit,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+53,59,QuantityPerUnit,QuantityPerUnit,QuantityPerUnit,N,1,Y,QuantityPerUnit,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+54,57,ReorderLevel,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+55,59,ReorderLevel,ReorderLevel,ReorderLevel,N,1,N,ReorderLevel,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+56,57,SupplierID,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+57,59,SupplierID,SupplierID,SupplierID,N,1,N,SupplierID,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+58,60,T1,Contact Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+59,60,T2,ContactName,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+60,60,T3,Category Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+61,60,T4,CategoryName,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+62,60,T5,Last,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+63,60,T6,Name,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+64,60,T7,First,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+65,60,T8,Region,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+66,60,T9,Product,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+67,57,UnitPrice,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+68,59,UnitPrice,UnitPrice,UnitPrice,N,1,N,UnitPrice,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+69,57,UnitsInStock,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+70,59,UnitsInStock,UnitsInStock,UnitsInStock,N,1,N,UnitsInStock,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+71,57,UnitsOnOrder,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+72,59,UnitsOnOrder,UnitsOnOrder,UnitsOnOrder,N,1,N,UnitsOnOrder,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+73,65,Products,Products Definition,Products Description,N,1,N,Products Notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,N,NULL,NULL
+74,66,ProductID,ProductID Definition,ProductID Description,N,1,N,ProductID Notes,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,2,Y,NULL,NULL
+79,72,TD1,"<b><i><u>TD1 </u></i></b><span style=""background-color: rgba(207, 207, 37, 0.67);""><font color=""#c21919"">definition</font></span> of business term  <a style=""cursor:pointer"" target=""_blank"" href=""http://www.google.com"">google</a>&nbsp;",TD1 business term definition and description,Y,1,N,New businesss data Updated,NULL,21,2,7,9,17,-1,"<span style=""background-color: rgba(55, 130, 52, 0.67);""><font color=""#ad2424"">user </font></span><b><i><u>defined </u></i></b>data 01  <a style='cursor:pointer' target='_blank' href='http://www.google.com'>google</a>","<span style=""letter-spacing: 0.13118px;"">user defined data 02 Updated</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 03</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 04</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 05</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 06</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 07</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 08</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 09</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 10</span>",NULL,NULL,0,Y,NULL,NULL
+80,72,TD2,TD2 definition Updated,TD2 description Updated,Y,1,N,TD2 notes Updated,NULL,-1,3,7,10,15,-1,"<span style=""background-color: rgba(55, 130, 52, 0.67);""><font color=""#ad2424"">user </font></span><b><i><u>defined </u></i></b>data 01  <a style='cursor:pointer' target='_blank' href='http://www.google.com'>google</a>","<span style=""letter-spacing: 0.13118px;"">user defined data 02 Updated</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 03</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 04</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 05</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 06</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 07</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 08</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 09</span>","<span style=""letter-spacing: 0.13118px;"">user defined data 10</span>",NULL,NULL,0,Y,NULL,NULL
+81,72,TD3,Definition Updated,description Updated,N,1,N,notes Updated,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+82,72,TD4,definition Updated,description Updated,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,Y,NULL,NULL
+83,86,T1,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+84,87,T2,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+85,46,test data,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+86,93,BT1,BT1 DEF,BT1 DESC,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+87,93,BT2,BT2 DEF,BT2 DESC,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+88,93,BT3,BT3 DEF,BT3 DESC,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+89,93,BT4,BT4 DEF,"<span style=""font-size: 14px;"">BT4 DESC</span>",N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+90,93,BT5,BT5 DEF,BT5 DESC,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+91,103,Term01,definirion of Term01 updated,Description of Term01 updted 2nd time,Y,1,N,notes of Term01,NULL,21,-1,8,9,15,-1,"user defined datao1&nbsp;&nbsp; <a style=""cursor:pointer"" target=""_blank"" href=""http://www.google.com"">Google</a>&nbsp;<span style=""background-color: rgba(240, 240, 14, 0.67);""><font color=""#fa1919""><b><i><u>news</u></i></b></font></span>","<span style=""letter-spacing: 0.13118px;"">user defined datao02</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao03</span>","<span style=""letter-spacing: 0.13118px;"">user defined data04</span>","<span style=""letter-spacing: 0.13118px;"">user defined data05</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao06</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao07</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao08</span>","<span style=""letter-spacing: 0.13118px;"">user defined data09</span>","<span style=""letter-spacing: 0.13118px;"">user defined data010</span>",,,0,N,NULL,NULL
+92,103,Term02,Definition of&nbsp;Term02 updated,Description&nbsp;Term02 imported 2nd time,N,1,N,notes of&nbsp;Term02,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+93,104,Term03,Definition of&nbsp;Term03 updated,Description&nbsp;Term03,N,1,N,notes of&nbsp;Term03,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+94,104,Term04,Definition of Term04 updated,Description of Term04,N,1,N,notes of&nbsp; Term04,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+96,111,BT1,def,desc,Y,1,N,notes,NULL,-1,1,8,14,17,-1,userDefinedField11,userDefinedField2,userDefinedField3,userDefinedField4,userDefinedField5,userDefinedField6,userDefinedField7,userDefinedField8,userDefinedField9,userDefinedField10,,,0,Y,NULL,NULL
+97,111,ATest1,def,desc,Y,1,N,notes,NULL,-1,1,8,14,17,-1,userDefinedField11,userDefinedField2,userDefinedField3,userDefinedField4,userDefinedField5,userDefinedField6,userDefinedField7,userDefinedField8,userDefinedField9,userDefinedField10,,,0,N,NULL,NULL
+98,111,ATest2,def,desc,Y,1,N,notes,NULL,-1,-1,-1,-1,-1,-1,userDefinedField11,userDefinedField2,userDefinedField3,userDefinedField4,userDefinedField5,userDefinedField6,userDefinedField7,userDefinedField8,userDefinedField9,userDefinedField10,,,0,N,NULL,NULL
+99,13,Ad2,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+100,190,A2,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+101,13,AD3,,,N,1,N,,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,NULL,NULL,0,N,NULL,NULL
+102,193,Term01,definirion of Term01 updated,Description of Term01 updted 2nd time,Y,1,N,notes of Term01,NULL,21,-1,8,9,15,-1,"user defined datao1&nbsp;&nbsp; <a style=""cursor:pointer"" target=""_blank"" href=""http://www.google.com"">Google</a>&nbsp;<span style=""background-color: rgba(240, 240, 14, 0.67);""><font color=""#fa1919""><b><i><u>news</u></i></b></font></span>","<span style=""letter-spacing: 0.13118px;"">user defined datao02</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao03</span>","<span style=""letter-spacing: 0.13118px;"">user defined data04</span>","<span style=""letter-spacing: 0.13118px;"">user defined data05</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao06</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao07</span>","<span style=""letter-spacing: 0.13118px;"">user defined datao08</span>","<span style=""letter-spacing: 0.13118px;"">user defined data09</span>","<span style=""letter-spacing: 0.13118px;"">user defined data010</span>",,,0,N,NULL,NULL
+103,193,Term02,Definition of&nbsp;Term02 updated,Description&nbsp;Term02 imported 2nd time,N,1,N,notes of&nbsp;Term02,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+104,194,Term03,Definition of&nbsp;Term03 updated,Description&nbsp;Term03,N,1,N,notes of&nbsp;Term03,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+105,194,Term04,Definition of Term04 updated,Description of Term04,N,1,N,notes of&nbsp; Term04,NULL,-1,-1,-1,-1,-1,-1,,,,,,,,,,,,,0,N,NULL,NULL
+106,72,NBT4,definition of NBT1,description of NBT1,Y,1,N,notes,NULL,-1,5,8,12,15,-1,User defined data1,User defined data 2,User defined data 3,User defined data 4,User defined data 5,User defined data 6,User defined data 7,User defined data 8,User defined data 9,User defined data 10,,,0,N,NULL,NULL
+107,72,NBT1,definition of NBT1,description of NBT1,Y,1,N,notes,NULL,-1,3,6,9,17,-1,User defined data1,User defined data 2,User defined data 3,User defined data 4,User defined data 5,User defined data 6,User defined data 7,User defined data 8,User defined data 9,User defined data 10,,,0,N,NULL,NULL

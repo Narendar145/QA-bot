@@ -1,0 +1,13 @@
+   Environment : 'Postgres' ,
+    system : 'Sk1_System'
+    datasource type : 'postgresSql',
+    version : '1.02',
+    description : 'This  is description for Sk1_system' ,
+    Data Steward : 'None' ,
+    Business Entity Type : 'postgres Sql Server',
+    Sensitive Data Indicator Classification : 'CLASSIFY,CMS_SDI4,CMS_SDI2,CONFIDENTIAL1' ,
+    SDI Description : 'official',
+    tags : 'Systems,SS Tag5,SS Tag4',
+    Environment Notes : 'This is environment notes for Sk1_system',
+    Audit History of the Environment includes its creation which was created by 'User1' on created date time '1643781176820'
+    and last refreshed by 'Administrator' on last refreshed date '1643781206083' and later on it was last modified by'Administrator' on last modified datetime '1688577821910'

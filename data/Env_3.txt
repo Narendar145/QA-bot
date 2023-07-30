@@ -1,0 +1,13 @@
+Environment : 'Oracle' ,
+system : 'SSystem'
+datasource type : 'Oracle',
+version : '1.03',
+description : 'This  is description for Ssytem' ,
+Data Steward : 'None' ,
+Business Entity Type : 'Oracle',
+Sensitive Data Indicator Classification : 'CLASSIFY,CMS_SDI5,CMS_SDI6,CONFIDENTIAL7' ,
+SDI Description : 'personal',
+tags : 'Systems,SS Tag5,SS Tag6',
+Environment Notes : 'This is environment notes',
+Audit History of the Environment includes its creation which was created by 'Administrator' on created date time '1643781176820'
+and last refreshed by 'Administrator' on last refreshed date '1643781206083' and later on it was last modified by'Administrator' on last modified datetime '1688577821910'

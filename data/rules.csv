@@ -1,0 +1,64 @@
+﻿ID,CATALOG_ID,NAME,DEFINITION,DESCRIPTION,NOTES,OBJECTIVE,DATA_STEWARD_ID,STATUS_ID,RESPONSIBLE_TEAM,CRITICALITY_ID,PUBLISH,SDI_FLAG,SDI_DESCRIPTION,SDI_CLASS_ID
+1,5,BR1,Rule details data,data definition,new business Rule,Rules data objective,-1,-1,NULL,1498,N,N,NULL,NULL
+2,5,BR2,BR2 definition,"<span style=""letter-spacing: 0.13118px;"">BR2 definition description</span>",,Rules data objective,-1,-1,NULL,-1,N,N,NULL,NULL
+3,6,BR3,definition of BR3,"<span style=""letter-spacing: 0.13118px;"">definition of BR3</span>",,Rules data objective,-1,-1,NULL,NULL,N,N,NULL,NULL
+4,5,Rule01,Rule01 definition,Rule01 description,Rule01 notes,Rules data objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+5,5,Rule02,Rule02 definition,Rule02 description,Rule02 notes,Rules data objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+6,5,Rule03,Rule02 definition,Rule03 description,new business Rule,Rules data objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+7,5,Rule04,Rule04 definition,Rule04 description,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+8,11,three,,,,,-1,-1,NULL,-1,N,N,NULL,NULL
+9,16,Administrator,sanitizer,handwash,facewash,sheild,-1,-1,NULL,32,N,Y,NULL,NULL
+10,17,Administrator 1,sanitizer 1,handwash 1,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+11,22,RuleWF1,RuleWF1 Definition1,RuleWF1 Description1,RuleWF1 Notes1,RuleWF1 Objective1,-1,-1,NULL,34,Y,Y,NULL,NULL
+12,49,1term,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+13,49,BMW,BMW-def-multiple Rule [Metadata],,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+14,49,Details,Details-def-multiple rule [Metadata],,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+15,52,red,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+16,55,RD1,"<b><i><u>RD1</u></i></b>  <a target=""_blank"" style='cursor:pointer' target='_blank' href='http://www.google.com'>business </a> rules <span style=""background-color: rgba(201, 201, 18, 0.67);""><font color=""#a82020"">data&nbsp;</font></span>",RD1 description,RD1 notes,RD1 objective,-1,-1,NULL,34,Y,Y,NULL,NULL
+17,55,RD2,definition of rd2,description of rd2,RD1 notes,objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+18,55,RD3,definition,description,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+22,79,RD1,"<b><i><u>RD1</u></i></b>  <a target=""_blank"" style='cursor:pointer' target='_blank' href='http://www.google.com'>business </a> rules <span style=""background-color: rgba(201, 201, 18, 0.67);""><font color=""#a82020"">data&nbsp;</font></span>",RD1 description updated,RD1 notes updated,RD1 objective updated,-1,-1,NULL,NULL,N,Y,NULL,NULL
+23,79,RD2,definition of rd2 287	inprogress,description of rd2 updated,RD1 notes updated,objective updated,-1,-1,NULL,NULL,N,Y,NULL,NULL
+24,79,RD3,definition updated,description updated,updated,updated,-1,-1,NULL,NULL,N,N,NULL,NULL
+25,91,R1,,,,,-1,-1,NULL,-1,N,N,NULL,NULL
+26,95,RR1,DEF&nbsp;RR1,DESC&nbsp;RR1,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+27,95,RR2,DEF&nbsp;RR2,DESC&nbsp;RR2,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+28,95,RR3,DEF&nbsp;RR3,DESC&nbsp;RR3,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+29,95,RR4,DEF&nbsp;RR4,DESC&nbsp;RR4,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+30,95,RR5,DEF&nbsp;RR5,DESC&nbsp;RR5,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+31,107,Rule01,Definition of&nbsp;Rule01,Description of&nbsp;Rule01,notes of&nbsp;Rule01,objective of&nbsp;Rule01,-1,-1,NULL,NULL,N,N,NULL,NULL
+32,107,Rule02,Definition of&nbsp;Rule02,Description of&nbsp;Rule02,notes of&nbsp;Rule02,objective of&nbsp;Rule02,-1,-1,NULL,NULL,N,N,NULL,NULL
+33,108,Rule03,Definition of&nbsp;Rule03,Description of&nbsp;Rule03,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+34,108,Rule04,Definition of&nbsp;Rule04,Description of&nbsp;Rule04,notes of&nbsp;Rule03,objective of&nbsp;Rule03,-1,-1,NULL,NULL,N,N,NULL,NULL
+36,16,R1,def R1,desc R1,notes R1,obj R1,-1,-1,NULL,32,N,Y,NULL,NULL
+37,143,ADS Object,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+38,144,HRule1,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+39,145,HRule11,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+40,146,HRule2,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+41,147,HRule22,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+42,148,HRule3,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+43,149,HRule33,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+44,150,HRule4,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+45,151,HRule44,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+46,152,Rule1,"<span style=""font-size: 14px;"">Rule1 Definition</span><div><div style=""letter-spacing: 0.13118px;""><font color=""#d6d91c""><span style=""background-color: rgba(217, 20, 52, 0.67);"">Background Color&nbsp;</span><br><br></font></div><div style=""letter-spacing: 0.13118px;""><b>Bold Text</b></div><div style=""letter-spacing: 0.13118px;""><b><i>Italic Text</i></b></div><div style=""letter-spacing: 0.13118px;""><b><i><u>Underlined Text</u></i></b></div><div style=""letter-spacing: 0.13118px;""><a target=""_blank"" href=""http://www.google.com/"" style=""cursor: pointer;"">Google</a></div><div style=""letter-spacing: 0.13118px;""><br></div><div style=""letter-spacing: 0.13118px;""><ul><li>Unordered List</li></ul><ol><li>Ordered List</li></ol><div style=""text-align: center;"">Middle Aligned</div></div><div style=""letter-spacing: 0.13118px; text-align: right;"">Right Aligned</div><div style=""letter-spacing: 0.13118px;"">Left Aligned</div></div>","<span style=""font-size: 14px;"">Rule1 Description</span><div><div style=""letter-spacing: 0.13118px;""><font color=""#d6d91c""><span style=""background-color: rgba(217, 20, 52, 0.67);"">Background Color&nbsp;</span><br><br></font></div><div style=""letter-spacing: 0.13118px;""><b>Bold Text</b></div><div style=""letter-spacing: 0.13118px;""><b><i>Italic Text</i></b></div><div style=""letter-spacing: 0.13118px;""><b><i><u>Underlined Text</u></i></b></div><div style=""letter-spacing: 0.13118px;""><a target=""_blank"" href=""http://www.google.com/"" style=""cursor: pointer;"">Google</a></div><div style=""letter-spacing: 0.13118px;""><br></div><div style=""letter-spacing: 0.13118px;""><ul><li>Unordered List</li></ul><ol><li>Ordered List</li></ol><div style=""text-align: center;"">Middle Aligned</div></div><div style=""letter-spacing: 0.13118px; text-align: right;"">Right Aligned</div><div style=""letter-spacing: 0.13118px;"">Left Aligned</div></div>","<span style=""font-size: 14px;"">Rule1 Notes</span><div><div style=""letter-spacing: 0.13118px;""><font color=""#d6d91c""><span style=""background-color: rgba(217, 20, 52, 0.67);"">Background Color&nbsp;</span><br><br></font></div><div style=""letter-spacing: 0.13118px;""><b>Bold Text</b></div><div style=""letter-spacing: 0.13118px;""><b><i>Italic Text</i></b></div><div style=""letter-spacing: 0.13118px;""><b><i><u>Underlined Text</u></i></b></div><div style=""letter-spacing: 0.13118px;""><a target=""_blank"" href=""http://www.google.com/"" style=""cursor: pointer;"">Google</a></div><div style=""letter-spacing: 0.13118px;""><br></div><div style=""letter-spacing: 0.13118px;""><ul><li>Unordered List</li></ul><ol><li>Ordered List</li></ol><div style=""text-align: center;"">Middle Aligned</div></div><div style=""letter-spacing: 0.13118px; text-align: right;"">Right Aligned</div><div style=""letter-spacing: 0.13118px;"">Left Aligned</div></div>","<span style=""font-size: 14px;"">Rule1 Objective</span><div><div style=""letter-spacing: 0.13118px;""><font color=""#d6d91c""><span style=""background-color: rgba(217, 20, 52, 0.67);"">Background Color&nbsp;</span><br><br></font></div><div style=""letter-spacing: 0.13118px;""><b>Bold Text</b></div><div style=""letter-spacing: 0.13118px;""><b><i>Italic Text</i></b></div><div style=""letter-spacing: 0.13118px;""><b><i><u>Underlined Text</u></i></b></div><div style=""letter-spacing: 0.13118px;""><a target=""_blank"" href=""http://www.google.com/"" style=""cursor: pointer;"">Google</a></div><div style=""letter-spacing: 0.13118px;""><br></div><div style=""letter-spacing: 0.13118px;""><ul><li>Unordered List</li></ul><ol><li>Ordered List</li></ol><div style=""text-align: center;"">Middle Aligned</div></div><div style=""letter-spacing: 0.13118px; text-align: right;"">Right Aligned</div><div style=""letter-spacing: 0.13118px;"">Left Aligned</div></div>",-1,-1,NULL,NULL,N,N,NULL,NULL
+47,153,Rule2,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+48,154,Rule3,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+49,155,Rule4,,,,,-1,-1,NULL,NULL,Y,N,NULL,NULL
+50,156,Rule5,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+51,156,Rule5-5,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+52,157,Rule6,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+53,157,Rule6-6,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+54,158,SRule1,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+55,159,SRule11,,,,,-1,-1,NULL,NULL,Y,N,NULL,NULL
+56,160,SRule2,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+57,161,SRule33,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+58,162,SRule33,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+59,163,SRule4,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+60,164,SRule5,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+61,164,SRule5-5,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+62,165,SRule6,,,,,-1,-1,NULL,NULL,Y,N,NULL,NULL
+63,165,SRule6-6,,,,,-1,-1,NULL,NULL,N,N,NULL,NULL
+64,142,Value,,,,,-1,-1,NULL,NULL,Y,N,NULL,NULL
+65,196,RD1,"<b><i><u>RD1</u></i></b>  <a target=""_blank"" style='cursor:pointer' target='_blank' href='http://www.google.com'>business </a> rules <span style=""background-color: rgba(201, 201, 18, 0.67);""><font color=""#a82020"">data&nbsp;</font></span>",RD1 description,RD1 notes,RD1 objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+66,196,RD2,definition of rd2,description of rd2,RD1 notes,objective,-1,-1,NULL,NULL,N,Y,NULL,NULL
+67,196,RD3,definition,description,,,-1,-1,NULL,NULL,N,N,NULL,NULL

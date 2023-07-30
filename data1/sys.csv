@@ -1,0 +1,52 @@
+﻿SYSTEM NAME,SYSTEM_MOVE_TYPE_SRC_TGT,SYSTEM_BUSINESS_PURPOSE_SHORT,SYSTEM_DESCRIPTION_LONG,SERVER_PLATFORM,SERVER_OS_VERSION,DBMS_PLATFORM,DBMS_VERSION,FILE_MANAGMENT_SYSTEM_TYPE,FILE_LOCATION,ESB_PLATFORM_TYPE,ESB_Q_MGR_NAME,RELEASE,TOTAL_NUM_TABLES,TOTAL_DB_SIZE_GIGABYTES,DEFINITION_OF_END_OF_DAY,DAILY_BATCH_EXTRACT_WINDOW,AVG_NUM_NAMED_USERS,AVG_NUM_CONCURRENT_USERS,SPECIAL_INSRUCTIONS_COMMENTS,SYSTEM_OWNER_FULL_NAME,SYSTEM_OWNER_TEL,SYSTEM_OWNER_EMAIL,CREATED BY,CREATED_DATETIME,LAST_MODIFIED_BY,LAST_MODIFIED_DATE_TIME,SYSTEM_ID,DATA_STEWARD_NAME,DATA_PROFILE_SCORE,SDI_FLAG,SDI_DESCRIPTION,SDI_CLASS_ID
+CSYSTEMup,,,,,,,,,,,,,0,,,,,,,,,,Administrator,30:22.4,sireesha1,17:57.4,1,NULL,0,N,NULL,NULL
+Sk_System,,,,,,,,,,,,,0,,,,,,,,,,Surya,37:14.2,Surya,33:46.1,2,NULL,0,Y,NULL,NULL
+V_System1,,,,,,,,,,,,,0,,,,,,,,,,Vinay,50:24.4,Vinay,50:24.4,3,NULL,0,N,NULL,NULL
+V_System2,,,,,,,,,,,,,0,,,,,,,,,,Vinay,51:13.2,Vinay,51:13.2,4,NULL,0,N,NULL,NULL
+Databases Scanning 06-05-2022,,,,,,,,,,,,,0,,,,,,,,,,sreedhar,25:48.0,sreedhar,53:36.5,5,NULL,0,N,NULL,NULL
+Flatfiles Scanning 06-05-2022,,,,,,,,,,,,,0,,,,,,,,,,sreedhar,53:13.5,sreedhar,53:48.3,6,NULL,0,N,NULL,NULL
+system1a,,,,,,,,,,,,,0,,,,,,,,,,Administrator,20:07.2,Administrator,20:07.2,7,NULL,0,N,NULL,NULL
+system1b,,,,,,,,,,,,,0,,,,,,,,,,Administrator,43:50.7,Administrator,43:50.7,8,NULL,0,N,NULL,NULL
+Test_System2,,,,,,,,,,,,,0,,,,,,,,,,Administrator,33:55.3,Administrator,33:55.3,9,NULL,0,Y,NULL,NULL
+source,,,,,,,,,,,,,0,,,,,,,,,,ksr,11:04.7,ksr,11:04.7,10,NULL,0,N,NULL,NULL
+target,,,,,,,,,,,,,0,,,,,,,,,,ksr,11:19.2,ksr,11:19.2,11,NULL,0,N,NULL,NULL
+PL_System,,,,,,,,,,,,,0,,,,,,,,,,prasanna,26:29.0,prasanna,26:29.0,12,NULL,0,Y,NULL,NULL
+Sample1,,,,,,,,,,,,,0,,,,,,,,,,Administrator,25:41.3,Administrator,25:41.3,13,NULL,0,Y,NULL,NULL
+S_DQ_PROFILING,,,,,,,,,,,,,0,,,,,,,,,,sravanthi,44:57.7,sravanthi,44:57.7,14,NULL,0,N,NULL,NULL
+BUP sytem,,,,,,,,,,,,,0,,,,,,,,,,Administrator,51:54.6,abhishek1,04:50.2,15,NULL,0,Y,NULL,NULL
+S_DQLabs_PROFILING,,,,,,,,,,,,,0,,,,,,,,,,sravanthi,55:49.0,sravanthi,55:49.0,16,NULL,0,N,NULL,NULL
+API_System,Test,BPS,SDesc,Windows,7,SQM,12,FMT,Remote Location,ESB plat,ESB q Mgr,1,24,2,EOD,BEwindo,2,4,Special Instruction commets,Scan,852147963,analy@analytix.com,prasanna,37:08.2,prasanna,37:08.2,17,NULL,0,Y,NULL,NULL
+CSYSTEM123,,,,,,,,,,,,,0,,,,,,,,,,TesterT21_Sam,13:22.4,TesterT21_Sam,13:22.4,18,NULL,0,N,NULL,NULL
+MART12 UE AN,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,16:03.0,Administrator,16:03.0,19,NULL,0,N,NULL,NULL
+Csystemwsupd1,source,new systemup,new system,Database,1,Oracle,1,type1,desktop,Type2,rupesh,system,50,two,newsystem,test,5,5,creatingnewsystem,,,,sireesha1,55:25.1,sireesha1,01:20.3,20,NULL,0,Y,NULL,NULL
+DMDI121 Counts,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,21:47.7,Administrator,21:47.7,21,NULL,0,N,NULL,NULL
+DMDI121 Relationship Models,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,51:16.7,Administrator,51:16.7,22,NULL,0,N,NULL,NULL
+DMDI121 ABCModel,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,53:01.5,Administrator,53:01.5,23,NULL,0,N,NULL,NULL
+DMDI121 UE AN,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,34:45.4,Administrator,34:45.4,24,NULL,0,N,NULL,NULL
+DMDI121 UE AN IN,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,50:25.2,Administrator,50:25.2,25,NULL,0,N,NULL,NULL
+DMDI121 DEL REL,,,,,,,,,,,,,0,,,,0,0,,,,,Administrator,59:53.1,Administrator,59:53.1,26,NULL,0,N,NULL,NULL
+LS1,,,,,,,,,,,,,0,,,,,,,,,,prasanna,01:37.3,sravanthi,50:40.7,27,NULL,0,Y,NULL,NULL
+LS3,,,,,,,,,,,,,0,,,,,,,,,,prasanna,01:59.1,sravanthi,50:40.7,28,NULL,0,Y,NULL,NULL
+LS4,,,,,,,,,,,,,0,,,,,,,,,,prasanna,02:05.7,sravanthi,50:40.7,29,NULL,0,Y,NULL,NULL
+Workflow,,,,,,,,,,,,,0,,,,,,,,,,sreedhar,32:23.1,sreedhar,32:23.1,30,NULL,0,N,NULL,NULL
+Install GLOBAL SYstem,Test,BusinessPurpose,SystemDesc,Windows,7,SQM,12,NFS,Remote Location,ESB platform,ESB q Manager,1,24,25,EOD,BatchExtractwindow,2,4,Special Instruction comments,DBAdmin,91852147963,rajeshk@analytixds.com,sravanthi,03:25.3,sravanthi,03:25.3,31,NULL,0,N,NULL,NULL
+Install Local SYstem,Test,BusinessPurpose,SystemDesc,Windows,7,SQM,12,NFS,Remote Location,ESB platform,ESB q Manager,1,24,25,EOD,BatchExtractwindow,2,4,Special Instruction comments,DBAdmin,91852147963,rajeshk@analytixds.com,sravanthi,03:25.5,sravanthi,03:25.5,32,NULL,0,N,NULL,NULL
+UNISTALL GLOBAL SYSTEM,Test,BusinessPurpose,SystemDesc,Windows,7,SQM,12,NFS,Remote Location,ESB platform,ESB q Manager,1,24,25,EOD,BatchExtractwindow,2,4,Special Instruction comments,DBAdmin,91852147963,rajeshk@analytixds.com,sravanthi,25:49.5,sravanthi,25:49.5,33,NULL,0,N,NULL,NULL
+UNISTALL LOCAL SYSTEM,Test,BusinessPurpose,SystemDesc,Windows,7,SQM,12,NFS,Remote Location,ESB platform,ESB q Manager,1,24,25,EOD,BatchExtractwindow,2,4,Special Instruction comments,DBAdmin,91852147963,rajeshk@analytixds.com,sravanthi,26:10.2,sravanthi,26:10.2,34,NULL,0,N,NULL,NULL
+DMDI_ValidValuesTest1,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,42:17.3,DI_User1,42:17.3,35,NULL,0,N,NULL,NULL
+דגל הפעיל,,,,,,,,,,,,,0,,,,,,,,,,Surya,12:02.0,Surya,12:02.0,36,NULL,0,N,NULL,NULL
+SS System,Source," <a style=""cursor:pointer"" target=""_blank"" href=""http://www.quest.com"">Business Purpose</a> ",,SP,1,DBMS P,2,FMT,desktop,ESB PT,ESB Q MN,ubuntu,40,3TB,Test Ubuntu,BEW,5,4," <a style=""cursor:pointer"" target=""_blank"" href=""http://www.quest.com"">Spl Instructions</a> ",saikumar,12345,test@ubuntu.com,saikumar1,28:09.0,saikumar1,03:11.8,37,sireesha1,0,Y,NULL,NULL
+CompSys,,,,,,,,,,,,,0,,,,,,,,,,prasanna,47:33.3,prasanna,47:33.3,38,NULL,0,N,NULL,NULL
+CompSys12,,,,,,,,,,,,,0,,,,,,,,,,prasanna,47:43.4,prasanna,47:43.4,39,NULL,0,N,NULL,NULL
+LS2,,,,,,,,,,,,,0,,,,,,,,,,prasanna,48:56.9,prasanna,48:56.9,40,NULL,0,N,NULL,NULL
+NSystem1,,,,,,,,,,,,,0,,,,,,,,,,naresh,02:53.0,naresh,02:53.0,41,NULL,0,N,NULL,NULL
+AM_System1,,,,,,,,,,,,,0,,,,,,,,,,naresh,16:25.6,naresh,16:25.6,42,NULL,0,Y,NULL,NULL
+AM_System2,,,,,,,,,,,,,0,,,,,,,,,,naresh,18:19.5,naresh,18:19.5,43,NULL,0,N,NULL,NULL
+AM_System3,,,,,,,,,,,,,0,,,,,,,,,,naresh,20:49.3,naresh,20:49.3,44,NULL,0,N,NULL,NULL
+AM_System4,,,,,,,,,,,,,0,,,,,,,,,,naresh,21:22.4,naresh,21:22.4,45,NULL,0,N,NULL,NULL
+0 Version Retention,,,,,,,,,,,,,0,,,,,,,,,,Administrator,39:08.4,Administrator,39:08.4,46,NULL,0,N,NULL,NULL
+DM_VV_AN_UP,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,20:10.3,DI_User1,20:10.3,47,NULL,0,N,NULL,NULL
+DM_AN_IN,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,23:37.4,DI_User1,23:37.4,48,NULL,0,N,NULL,NULL
+DM_VV_AN_IN,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,08:10.9,DI_User1,08:10.9,49,NULL,0,N,NULL,NULL
+DM_VV_DR,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,41:46.6,DI_User1,41:46.6,50,NULL,0,N,NULL,NULL
+DM_VV_DR_1,,,,,,,,,,,,,0,,,,0,0,,,,,DI_User1,47:31.2,DI_User1,47:31.2,51,NULL,0,N,NULL,NULL
